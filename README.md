@@ -54,6 +54,11 @@ To set up the project environment, follow these steps:
 8. Access your web application at http://localhost:5000 in your browser
 
 
+### Additional Notes
+
+- If you encounter any issues during setup or while running the application, feel free to [create an issue](https://github.com/Bangalore-House-Price-Prediction/issues) on GitHub for assistance.
+
+
 ## Usage Guide
 
 The project can be used for the following purposes:
