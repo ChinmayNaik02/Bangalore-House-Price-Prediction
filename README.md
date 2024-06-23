@@ -1,6 +1,10 @@
 # Banglore House Price Prediction Project
 
 
+![image](https://github.com/ChinmayNaik02/Bangalore-House-Price-Prediction/assets/133491712/14395c90-6b01-4ff2-a1d2-92f150bf4259)
+
+
+
 ## Overview
 
 This notebook presents a comprehensive analysis and predictive modeling project for predicting the prices of houses in Bangalore. The dataset includes various features such as area type, location, total square footage, number of bathrooms, balconies, and the number of bedrooms (BHK). We will preprocess the data, encode categorical features, and use machine learning techniques to train and evaluate our model. The final model will enable us to predict house prices accurately based on the provided features.
