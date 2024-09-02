@@ -40,8 +40,8 @@ function onClickedEstimatePrice() {
 
   console.log(`area_type: ${area_type}, location: ${location}, sqft: ${sqft}, bhk: ${bhk}, bathrooms: ${bathrooms}, balcony: ${balcony}`);  // Log the data being sent
 
-  // var url = "http://127.0.0.1:5000/predict_home_price";
-  var url = "/api/predict_home_price"
+  var url = "http://127.0.0.1:5000/predict_home_price";
+  // var url = "/api/predict_home_price"
 
   $.post(url, {
       area_type : area_type.value,
@@ -65,8 +65,8 @@ function onClickedEstimatePrice() {
 
 function onPageLoad() {
     console.log("document loaded");
-    // var url = "http://127.0.0.1:5000/get_artifacts";
-    var url = "/api/get_artifacts";
+    var url = "http://127.0.0.1:5000/get_artifacts";
+    // var url = "/api/get_artifacts";
 
     $.get(url, function(data, status) {
         console.log("got response for get_locations request");
