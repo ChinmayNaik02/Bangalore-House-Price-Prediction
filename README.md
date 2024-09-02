@@ -1,6 +1,17 @@
 # Banglore House Price Prediction Project
 
 
+![image](https://github.com/ChinmayNaik02/Bangalore-House-Price-Prediction/assets/133491712/14395c90-6b01-4ff2-a1d2-92f150bf4259)
+
+
+## Table of Contents
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Usage Guide](#usage-guide)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+
+
 ## Overview
 
 This notebook presents a comprehensive analysis and predictive modeling project for predicting the prices of houses in Bangalore. The dataset includes various features such as area type, location, total square footage, number of bathrooms, balconies, and the number of bedrooms (BHK). We will preprocess the data, encode categorical features, and use machine learning techniques to train and evaluate our model. The final model will enable us to predict house prices accurately based on the provided features.
@@ -70,6 +81,17 @@ The project can be used for the following purposes:
 - Optimizing model performance by tuning hyperparameters using techniques like grid search and cross-validation.
 - Deployinng the machine learning model using Flask as the backend and serve predictions through a web interface.
 Refer to the Jupyter notebook and python flask server for detailed code and explanations.
+
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
 
 
 ## Acknowledgments
